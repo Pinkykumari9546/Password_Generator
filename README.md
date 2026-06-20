@@ -23,12 +23,12 @@ A simple and secure **Random Password Generator** built using **HTML, CSS, and J
 ### Home Page
 
 
-screenshots/home.png
+![Home Screen](screenshots/home.png)
 
 
 ### Generated Password
 
-screenshots/password-generated.png
+![Generated Password](screenshots/password-generated.png)
 
 ---
 
